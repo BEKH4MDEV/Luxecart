@@ -2,13 +2,13 @@
 
 ### Compras premium, reinventadas.
 
-Una plataforma de E-commerce full‑stack con procesamiento real de pagos mediante Stripe.
+Una plataforma de e-commerce full-stack que utiliza Next.js, con procesamiento real de pagos mediante Stripe.
 
 ---
 
 ## 📋 Descripción general
 
-LuxeCart es un E-commerce completo que demuestra prácticas modernas de ingeniería full‑stack. Construida de extremo a extremo con procesamiento real de pagos, ofrece una experiencia completa para el cliente, desde la exploración de productos hasta la gestión de pedidos.
+LuxeCart es un e-commerce completo que demuestra prácticas modernas de ingeniería full‑stack usando Next.js. Construida de extremo a extremo con procesamiento real de pagos, ofrece una experiencia completa para el cliente, desde la exploración de productos hasta la gestión de pedidos.
 
 ### Aspectos destacados
 
@@ -66,6 +66,25 @@ LuxeCart es un E-commerce completo que demuestra prácticas modernas de ingenier
 - Hash de contraseñas con bcrypt
 - Verificación de firmas de webhooks
 - Validación de entradas con Zod
+
+---
+
+## 📸 Screenshots de la aplicación
+
+### Home
+![Home](./screenshots/Home.png)
+
+### Categorías
+![Categorias](./screenshots/Categorias.png)
+
+### Destacados
+![Destacados](./screenshots/Destacados.png)
+
+### Productos
+![Productos](./screenshots/Productos.png)
+
+### Pagar
+![Pagar](./screenshots/Pagar.png)
 
 ---
 
